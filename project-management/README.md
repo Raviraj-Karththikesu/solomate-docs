@@ -1,30 +1,34 @@
 # SoloMate – Project Management
 
-**Project Lead:** Raviraj  
-**Development Deadline:** 30 November 2026
+## Project Details
+
+- Project Lead: Raviraj
+- Team Members: 7
+- Development Deadline: 30 November 2026
 
 ## Live Project Tracker
 
-[Open SoloMate Master Project Tracker](PASTE_GOOGLE_SHEET_LINK_HERE)
+[Open SoloMate Master Project Tracker](https://docs.google.com/spreadsheets/d/1YILWPhAOEWQ7o9sO-aGEO4unYpdl4qdt5dNTfpbsjLU/edit?usp=sharing)
 
-## Tracker Contents
+## Tracker Sections
 
-- Dashboard
-- Milestones
-- Task Allocation
-- Daily Work Log
-- Team Members
-- Review & Approval
-- Issues & Bugs
+1. Dashboard
+2. Milestones
+3. Task Allocation
+4. Daily Work Log
+5. Team Members
+6. Review & Approval
+7. Issues & Bugs
 
-## Team Rules
+## Team Responsibilities
 
-- Update assigned task progress daily.
+- Update assigned tasks daily.
 - Record completed work in the Daily Work Log.
-- Report development issues and bugs.
+- Report issues and bugs.
 - Submit GitHub Pull Requests for review.
-- Obtain Project Lead approval before marking tasks as approved.
+- Follow all assigned deadlines.
 
-## Access
+## Access Policy
 
-Only authorized SoloMate team members can access the live tracker.
+Only authorized SoloMate team members can access the tracker.
+Project Lead approval is required for final task completion.
